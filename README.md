@@ -40,7 +40,7 @@ Exemplo de lista
 
 
  #### caixas de check
- - [] fazer a tela de login 
+ - [x] fazer a tela de login 
  - [] criar a tela de calculo
  - [] criar tela de historico
 
